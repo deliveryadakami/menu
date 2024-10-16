@@ -196,10 +196,9 @@
     <h1>PENTING</h1>
     <p>Jam oprasional : 08:00 AM - 00.30 PM, PENGANTARAN : GWIN, VENUS, GALAXY, MOCBAI, SUN CITY, CROWN, NEW WORLD, DINASTY
         <div class="container">
-            <h2>Hubungi Kami</h2>
-            <p>Untuk memesan atau informasi lebih lanjut, silakan hubungi kami melalui WhatsApp</p>
-            <!-- Tombol WhatsApp -->
-            <a href="https://wa.me/6281396105200" class="whatsapp-button">
-                <i class="fab fa-whatsapp"></i> Hubungi Kami di WhatsApp
-            </a>
-        <div>
+    <h2>Hubungi Kami</h2>
+    <p>Untuk memesan atau informasi lebih lanjut, silakan hubungi kami melalui WhatsApp</p>
+    <a href="https://wa.me/6281396105200?text=Hallo%20saya%20ingin%20order" class="whatsapp-button">
+        <i class="fab fa-whatsapp"></i> Hubungi Kami di WhatsApp
+    </a>
+</div>
