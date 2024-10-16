@@ -180,7 +180,6 @@
         <li>Es Sprite Susu <span class="price">1.5$</span></li>
         <li>Es Fanta <span class="price">1$</span></li>
         <li>Es Fanta Susu <span class="price">1.5$</span></li>
-    </ul>
     <h2>JUGA TERSEDIA LAYANAN TAMBAHAN </h2>
     <ul>
         <li>Paket ulang tahun & acara lainnya</li>
