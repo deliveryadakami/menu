@@ -1,4 +1,4 @@
-
+#WELCOME
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -168,5 +168,3 @@
                 <i class="fab fa-whatsapp"></i> Hubungi Kami di WhatsApp
             </a>
         <div>
-        </body>
-        </html>
