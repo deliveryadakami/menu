@@ -71,7 +71,6 @@
         .whatsapp-button i {
             margin-right: 10px;
         }
-
         /* Responsive styling */
         @media (max-width: 768px) {
             .container {
@@ -90,7 +89,6 @@
                 padding: 8px 15px;
             }
         }
-
         @media (max-width: 480px) {
             .container {
                 width: 95%;
@@ -162,7 +160,6 @@
         <li>Bakwan Jagung<span class="price">2$</span></li>
     </ul>
     <h2>MINUMAN</h2>
-    <ul>
         <li>Es Milo <span class="price">1.5$</span></li>
         <li>Jus Mangga <span class="price">1.5$</span></li>
         <li>Jus Apel <span class="price">1.5$</span></li>
