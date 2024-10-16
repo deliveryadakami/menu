@@ -1,4 +1,3 @@
-#WELCOME
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -72,6 +71,44 @@
         .whatsapp-button i {
             margin-right: 10px;
         }
+
+        /* Responsive styling */
+        @media (max-width: 768px) {
+            .container {
+                width: 90%;
+                padding: 10px;
+            }
+            header {
+                font-size: 20px;
+                padding: 10px;
+            }
+            ul li {
+                font-size: 14px;
+            }
+            .whatsapp-button {
+                font-size: 16px;
+                padding: 8px 15px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                width: 95%;
+                padding: 8px;
+            }
+            header {
+                font-size: 18px;
+                padding: 8px;
+            }
+            ul li {
+                font-size: 12px;
+                padding: 8px;
+            }
+            .whatsapp-button {
+                font-size: 14px;
+                padding: 6px 12px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -135,6 +172,7 @@
         <li>Teh Manis Ice/Hangat <span class="price">1$</span></li>
         <li>Extrajos Susu <span class="price">2$</span></li>
         <li>Kuku Bima Anggur <span class="price">1.5$</span></li>
+        <li>Kuku Bima Susu <span class="price">2$<//li>
         <li>Kuku Bima Susu <span class="price">2$</span></li>
         <li>Kopi Tubruk <span class="price">1.5$</span></li>
         <li>White Coffee <span class="price">1.5$</span></li>
